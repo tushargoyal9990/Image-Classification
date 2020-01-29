@@ -17,8 +17,8 @@
 ## Approach
 * Imported the dataset
 * Reshaping of images.
-* SVM : Applied PCA and then SVM
-* CNN : Built a CNN model using keras.
+* SVM : Applied PCA and SVM
+* CNN : Built a CNN model using Keras (Refer for more information : https://arxiv.org/pdf/1611.04905)
 
 ## Results
 * Accuracy using SVM : 55.35%
